@@ -172,7 +172,7 @@ const QuizPage = () => {
         )}
       </div>
       <button
-        className="mt-8 bg-accent text-black font-semibold py-3 px-6 rounded-full hover:bg-secondary hover:text-primary transition duration-300 shadow-md"
+        className="mt-8 bg-accent text-black font-semibold py-3 px-6 rounded-full hover:bg-secondary  transition duration-300 shadow-md"
         onClick={() => navigate("/")}
       >
         Tillbaka till Start
