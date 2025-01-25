@@ -1,0 +1,27 @@
+[
+    {
+      "fråga": "Vad är 5 + 3?",
+      "alternativ": [5, 8, 10],
+      "svar": 8
+    },
+    {
+      "fråga": "Vilken färg har bananer?",
+      "alternativ": ["Gul", "Blå", "Röd"],
+      "svar": "Gul"
+    },
+    {
+      "fråga": "Vilket år började andra världskriget?",
+      "alternativ": [1935, 1939, 1945],
+      "svar": 1939
+    },
+    {
+      "fråga": "Hur många ben har en spindel?",
+      "alternativ": [6, 8, 10],
+      "svar": 8
+    },
+    {
+      "fråga": "Vad heter Sveriges huvudstad?",
+      "alternativ": ["Stockholm", "Göteborg", "Malmö"],
+      "svar": "Stockholm"
+    }
+  ]
