@@ -165,7 +165,7 @@ const QuizPage = () => {
         {feedback && (
           <p
             className="mt-4 text-lg text-center font-extrabold"
-            style={{ color: feedback === "Rätt!" ? "#99D1F8" : "#F3C48B" }}
+            style={{ color: feedback === "Rätt!" ? "#22ea72" : "#ff0000" }}
           >
             {feedback}
           </p>

@@ -1,27 +1,52 @@
 [
     {
-      "fråga": "Vad är 5 + 3?",
-      "alternativ": [5, 8, 10],
-      "svar": 8
+        "fråga": "Vad heter Sveriges huvudstad?",
+        "alternativ": ["Stockholm", "Göteborg", "Malmö"],
+        "svar": "Stockholm"
     },
     {
-      "fråga": "Vilken färg har bananer?",
-      "alternativ": ["Gul", "Blå", "Röd"],
-      "svar": "Gul"
+        "fråga": "Vilken planet är närmast solen?",
+        "alternativ": ["Venus", "Merkurius", "Mars"],
+        "svar": "Merkurius"
     },
     {
-      "fråga": "Vilket år började andra världskriget?",
-      "alternativ": [1935, 1939, 1945],
-      "svar": 1939
+        "fråga": "Vilken färg har himlen vanligtvis en klar dag?",
+        "alternativ": ["Blå", "Grön", "Röd"],
+        "svar": "Blå"
     },
     {
-      "fråga": "Hur många ben har en spindel?",
-      "alternativ": [6, 8, 10],
-      "svar": 8
+        "fråga": "Vad är den kemiska symbolen för vatten?",
+        "alternativ": ["H2O", "CO2", "O2"],
+        "svar": "H2O"
     },
     {
-      "fråga": "Vad heter Sveriges huvudstad?",
-      "alternativ": ["Stockholm", "Göteborg", "Malmö"],
-      "svar": "Stockholm"
+        "fråga": "Vad är 15 * 3?",
+        "alternativ": ["45", "50", "60"],
+        "svar": "45"
+    },
+    {
+        "fråga": "Vilken färg har bananer?",
+        "alternativ": ["Gul", "Blå", "Röd"],
+        "svar": "Gul"
+    },
+    {
+        "fråga": "Vilket år började andra världskriget?",
+        "alternativ": [1935, 1939, 1945],
+        "svar": 1939
+    },
+    {
+        "fråga": "Hur många ben har en spindel?",
+        "alternativ": [6, 8, 10],
+        "svar": 8
+    },
+    {
+        "fråga": "Vad är huvudstaden i Norge?",
+        "alternativ": ["Köpenhamn", "Helsingfors", "Oslo"],
+        "svar": "Oslo"
+    },
+    {
+        "fråga": "Vilken är världens högsta byggnad?",
+        "alternativ": ["Burj Khalifa", "Eiffeltornet", "Shanghai Tower"],
+        "svar": "Burj Khalifa"
     }
-  ]
+]
